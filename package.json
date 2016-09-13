@@ -1,0 +1,22 @@
+{
+  "name": "mpapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniquekto/mpapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniquekto/mpapp/issues"
+  },
+  "homepage": "https://github.com/uniquekto/mpapp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
